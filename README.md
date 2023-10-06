@@ -12,6 +12,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordRobinCbz&theme=cobalt)
 
+![](https://github-profile-trophy.vercel.app/?username=LordRobinCbz&theme=algolia)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LordRobinCbz&theme=cobalt)
 
 ## Ressources
