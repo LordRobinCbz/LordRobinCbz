@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+![Header](https://gitlab.com/LordRobinCbz/LordRobinCbz/-/raw/main/assets/github-header-image.png?ref_type=heads)
 
 ![Licence Status](https://img.shields.io/badge/licence-MIT-brightgreen)
 ![Compagny](https://img.shields.io/badge/Compagny-Capgemini-blue)![Compagny](https://img.shields.io/badge/Compagny-Labo--CBZ-blue)
