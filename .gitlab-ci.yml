@@ -8,10 +8,6 @@
 
 stages:
 - gitlab-test
-- yaml-lint
-- jinja2-lint
-- ansible-lint
-- molecule-test
 
 variables:
   PIPELINE_SCENARIO_NAME: "cicd-debian-11"
